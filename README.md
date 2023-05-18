@@ -1,5 +1,7 @@
 # Neural-Networks-for-Drum-Music-Generation
 
+presentation deck : https://gamma.app/public/Using-Neural-Networks-for-Drum-Music-Generation-ffrjj4t57judp7q
+
 This project focuses on generating drum music using a Long Short-Term Memory (LSTM) neural network. The LSTM model is trained on a dataset of MIDI files containing rock-style drum performances. The goal is to create a model that can generate realistic and expressive drum sequences.
 
 ### Dataset
