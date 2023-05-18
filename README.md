@@ -42,6 +42,11 @@ By addressing these aspects, we can overcome the limitations of the current impl
 Usage
 To use the code in this project, follow these steps:
 
-Install the necessary dependencies by running pip install -r requirements.txt.
+Install the necessary dependencies 
 
-Run the main.py script to start the training process for the LSTM model. Adjust the hyperparameters,
+Run the lstm.py script to start the training process for the LSTM model. Adjust the hyperparameters,
+
+To directly predict new tracks just run predict.py 
+
+
+
