@@ -49,4 +49,7 @@ Run the lstm.py script to start the training process for the LSTM model. Adjust 
 To directly predict new tracks just run predict.py 
 
 
+Baseline model architecture followed from : https://github.com/Skuldur/Classical-Piano-Composer.
+
+
 
