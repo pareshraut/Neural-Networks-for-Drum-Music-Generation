@@ -82,7 +82,7 @@ def create_network(network_input, n_vocab):
     model.add(Activation('softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam')
 
-    model.load_weights('weights/weights-improvement-09-1.3152-bigger.hdf5')
+    model.load_weights('weights/weights-improvement-09-0.9702-bigger.hdf5.hdf5')
 
     return model
 
